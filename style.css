@@ -91,9 +91,11 @@ a {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: #8FAE8B;
+  background-image: url('assets/hero-bg.png') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
